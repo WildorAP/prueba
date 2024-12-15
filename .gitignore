@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración sensibles
+*.env
+
+# Archivos de compilación
+__pycache__/
+*.py[cod]
+
+# Archivos estáticos recopilados
+/staticfiles/
